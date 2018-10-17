@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'classes',
+    'rest_framework',
 
     'crispy_forms',
 ]
